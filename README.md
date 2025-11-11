@@ -49,3 +49,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chraki007/Chraki007/output/snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/Chraki007/Chraki007/output/snake.svg" />
 </picture>
+
